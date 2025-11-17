@@ -26,7 +26,8 @@ export default function Footer() {
                     <h4>Contact</h4>
                     <p>Email: support@Grozee.com</p>
                     <p>Phone: +91 12345 67890</p>
-                    <p>Address: 123 Book St, Knowledge City, India</p>
+                    <p>Address: Sanik Colony, Jammu India</p>
+                    <p>made with ❤️ by Aarya</p>
                 </div>
             </div>
 
